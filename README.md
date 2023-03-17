@@ -10,11 +10,15 @@ An innovative two-axle vehicle that can reduce weight, initial investment and ma
 
 ## Vehicle ride comfort control
 
-The poor ride comfort of the vehicle with standard dampers can be drastically imrpoved when using active hydraulic cylinders. In the example video, one vehicle with **Passive** dampers and one with **Active** cylinders run on the same 1000 m railway track at 80 km/h. The carbody accelerations are greately reduced when using the active configuration, reducing the oscillations reaching the passenger and improving the passenger ride comfort.
+The poor ride comfort of the vehicle with standard dampers can be imrpoved when using active hydraulic cylinders. In the example video, one vehicle with **Passive** dampers and one with **Active** cylinders run on the same 1000 m railway track at 80 km/h. The carbody accelerations are greately reduced when using the active configuration, reducing the oscillations reaching the passenger and improving the passenger ride comfort.
 
 The passenger in the video serves only the purpose of highlighting the benefits of the active configuration. The passender model is originated using as a reference the work by [A.A. Nikooyan et al.](https://journals.sagepub.com/doi/10.1177/0954411911424210#bibr44-0954411911424210).
 
 https://user-images.githubusercontent.com/127484353/224277714-59fc3b0d-f555-42ee-a5fc-84a0606e62c1.mp4
 
 ## Vehicle steering control
+
+The poor wheelset steering can be imrpoved with active steering. 
+
+https://user-images.githubusercontent.com/127489390/225928580-0d774a75-8f0b-4c79-9afe-97a102d4eea4.mp4
 
