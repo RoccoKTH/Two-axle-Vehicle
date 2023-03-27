@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/127484353/224277714-59fc3b0d-f555-42ee
 
 ## Vehicle steering control
 
-The poor wheelset steering capability of the two-axle vehicle with passive longitudinal suspensions can be improved with active steering. In the example video, one vehicle equiped with **Passive** longitudinal suspensions and one with **Active** longitudinal actuators run over a cirvular curve of 400 m radius with an initial speed of 80 km/h. The active suspensions improve the steering capability of the vehicle reducing the dissipated energy between the wheel and the rail. As a result, a lower vehicle speed reduction is seen. This implies a reduced traction effort required during curve negotiation for the active system.
+The poor wheelset steering capability of the two-axle vehicle with passive longitudinal suspensions can be improved with active steering. In the example video, one vehicle equiped with **Passive** longitudinal suspensions and one with **Active** longitudinal actuators run over a cirvular curve of 400 m radius with an initial speed of 80 km/h. The active suspensions improve the steering capability of the vehicle reducing the dissipated energy between the wheel and the rail. As a result, a lower vehicle speed reduction is seen and therefore a longer travelled distance within the same time.
 
 To give a fair comparison between the two vehicle in terms of energy consuption, the energy used by the actuators is calculated starting from the require actuation power where a global efficiency factor of 0.5 is considerd.
 
